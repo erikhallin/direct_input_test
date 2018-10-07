@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1411829406 source:c:\erikprogram\direct_input_test\main.cpp
+	<iostream>
+	<windows.h>
+	<gl/gl.h>
+	<D3D/dinput.h>
+	<fcntl.h>
+	<stdio.h>
+	<vector>
+
